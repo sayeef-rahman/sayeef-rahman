@@ -77,6 +77,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 <a href="https://digitarly.com" target="_blank">
   <img src="https://media.licdn.com/dms/image/v2/C510BAQGGqvqXgYELEg/company-logo_200_200/company-logo_200_200/0/1630633447944/digitarly_logo?e=1734566400&v=beta&t=YhUiY3P21yxvadRBITfaGj0c7IPjCcZVPJerjzN7-nI" alt="Digitarly" width="80px" height="40px"/>
 </a>
+
 - **Position**: Social Media Marketing Specialist
 - **Period**: Nov 2020 - Jun 2022 · 1 yr 8 mos | Full-time
 - **Location**: Dhaka, Bangladesh | On-site
