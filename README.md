@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a frontend developer with a love for crafting 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="40px" height="40px"/></a>
   
 - **Frameworks & Libraries**:
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="80px" height="40px"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="110px" height="40px"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" width="80px" height="40px"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="80px" height="40px"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="80px" height="40px"/></a>
